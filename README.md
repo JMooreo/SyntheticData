@@ -5,7 +5,7 @@ The modules in this repository are tools that analyze vector embeddings and gene
 ## How to install and run
 1. clone the repo
 2. set up a virtual Python env (PyCharm does this for you)
-3. pip install -r requirements.txt
+3. pip install -r requirements.txt (Python 3.10+)
 4. look in main.py
 5. uncomment the lines of code that you're interested in in the main function
 6. run main.py
